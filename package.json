@@ -1,0 +1,19 @@
+{
+  "name": "positionxcoin",
+  "version": "1.0.0",
+  "description": "A Distributed Cryptocurrency from PositionX Machines Research Company, developed by Swastik Nath.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Welcome to PositionX Coin Version 0.1.4\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swastiknath/positionxcoin.git"
+  },
+  "author": "Swastik Nath (PositionX Machines Research.)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swastiknath/positionxcoin/issues"
+  },
+  "homepage": "https://github.com/swastiknath/positionxcoin#readme"
+}
