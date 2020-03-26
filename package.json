@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/swastiknath/positionxcoin/issues"
   },
-  "homepage": "https://github.com/swastiknath/positionxcoin#readme"
+  "homepage": "https://github.com/swastiknath/positionxcoin#readme",
+  "dependencies": {
+    "zeppelin-solidity": "1.12.0"
+  }
 }
